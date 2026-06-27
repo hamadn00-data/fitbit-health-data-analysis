@@ -182,6 +182,7 @@ Some insights generated include:
 # Dashboard Preview
 
 ### Executive Summary
+![Executive Summary] 
 
 ```
 
