@@ -32,6 +32,15 @@ The project demonstrates a complete data analyst workflow from raw data to busin
 
 ---
 
+## Repository Contents
+
+* `fitbit.sql` – SQL queries used for data analysis.
+* `Fitbit.ipynb` – Data cleaning, transformation, and exploratory data analysis in Python.
+* `Fitbit.pbix` - Power BI Dashboard
+* `images/` – Dashboard screenshots.
+* `README.md` – Project documentation.
+
+  
 ## 📂 Dataset
 
 The project contains multiple Fitbit datasets:
