@@ -225,7 +225,7 @@ This project demonstrates how fitness tracking data can be transformed into mean
 
 Aspiring Data Analyst passionate about Excel, SQL, Python, Power BI, and Data Visualization.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/hamadn00-data
 
 ---
 
