@@ -182,19 +182,19 @@ Some insights generated include:
 # Dashboard Preview
 
 ### Executive Summary
-![Executive Summary] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/1-Executive%20Summary.PNG
+![Executive Summary] (images/1-Executive%20Summary.PNG)
  
 ### Activity
-![Activity] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/2-Activity.PNG
+![Activity] (images/2-Activity.PNG)
 
 ### Sleep
-![Sleep] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/3-Sleep.PNG
+![Sleep] (images/3-Sleep.PNG)
 
 ### Weight
-![Weight] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/4-Weight.PNG
+![Weight] (images/4-Weight.PNG)
 
 ### Heart Rate
-![Heart Rate] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/5-Heart%20Rate.PNG
+![Heart Rate] (images/5-Heart%20Rate.PNG)
 
 
 
