@@ -217,6 +217,7 @@ Some insights generated include:
 
 This project demonstrates how fitness tracking data can be transformed into meaningful insights that help understand user behavior, monitor health metrics, and support data-driven decision making.
 
+---
 
 # Author
 
