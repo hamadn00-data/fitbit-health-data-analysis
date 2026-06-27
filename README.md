@@ -182,7 +182,11 @@ Some insights generated include:
 # Dashboard Preview
 
 ### Executive Summary
-![Executive Summary] 
+![Executive Summary] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/1-Executive%20Summary.PNG
+![Activity]
+![Sleep]
+![Weight]
+![Heart Rate]
 
 ```
 
