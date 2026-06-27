@@ -196,7 +196,7 @@ Some insights generated include:
 ### Heart Rate
 ![Heart Rate] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/5-Heart%20Rate.PNG
 
-```
+
 
 # Skills Demonstrated
 
