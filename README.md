@@ -183,18 +183,20 @@ Some insights generated include:
 
 ### Executive Summary
 ![Executive Summary] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/1-Executive%20Summary.PNG
-
+ 
+### Activity
 ![Activity] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/2-Activity.PNG
 
+### Sleep
 ![Sleep] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/3-Sleep.PNG
 
-![Weight]https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/4-Weight.PNG
+### Weight
+![Weight] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/4-Weight.PNG
 
-![Heart Rate]
+### Heart Rate
+![Heart Rate] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/5-Heart%20Rate.PNG
 
 ```
-
----
 
 # Skills Demonstrated
 
@@ -220,11 +222,9 @@ This project demonstrates how fitness tracking data can be transformed into mean
 
 **Hamaad Nasir**
 
-Aspiring Data Analyst passionate about SQL, Python, Power BI, and Data Visualization.
+Aspiring Data Analyst passionate about Excel, SQL, Python, Power BI, and Data Visualization.
 
 GitHub: https://github.com/yourusername
-
-
 
 ---
 
