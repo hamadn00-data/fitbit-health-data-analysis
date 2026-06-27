@@ -187,7 +187,9 @@ Some insights generated include:
 ![Activity] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/2-Activity.PNG
 
 ![Sleep] https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/3-Sleep.PNG
-![Weight]
+
+![Weight]https://github.com/hamadn00-data/fitbit-health-data-analysis/blob/main/images/4-Weight.PNG
+
 ![Heart Rate]
 
 ```
