@@ -181,14 +181,8 @@ Some insights generated include:
 
 # Dashboard Preview
 
-(Add screenshots here)
+### Executive Summary
 
-Example:
-
-```
-images/dashboard-home.png
-images/dashboard-activity.png
-images/dashboard-sleep.png
 ```
 
 ---
