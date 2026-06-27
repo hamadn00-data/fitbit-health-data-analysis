@@ -1,6 +1,6 @@
 # 📊 Fitbit Health Data Analysis
 
-An end-to-end data analytics project that analyzes Fitbit fitness tracker data using **SQL, Python (Pandas), and Power BI**. This project explores user activity, sleep, heart rate, calories burned, body weight, and other health metrics to generate meaningful business insights through data analysis and interactive dashboards.
+An end-to-end data analytics project that analyzes Fitbit fitness tracker data using **Excel, SQL, Python (Pandas), and Power BI**. This project explores user activity, sleep, heart rate, calories burned, body weight, and other health metrics to generate meaningful business insights through data analysis and interactive dashboards.
 
 ---
 
@@ -51,6 +51,7 @@ The original dataset is available here:
 
 ## 🛠 Tools & Technologies
 
+- Excel
 - SQL
 - Python
 - Pandas
