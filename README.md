@@ -44,8 +44,10 @@ The project contains multiple Fitbit datasets:
 - METs
 - Sleep
 - Weight Log
-  https://www.kaggle.com/datasets/arashnic/fitbit
----
+
+The original dataset is available here:
+
+**Dataset:** https://www.kaggle.com/datasets/arashnic/fitbit
 
 ## 🛠 Tools & Technologies
 
@@ -57,9 +59,6 @@ The project contains multiple Fitbit datasets:
 - Seaborn
 - Plotly
 - Power BI
-- Git
-- GitHub
-
 ---
 
 # SQL Analysis
@@ -156,6 +155,9 @@ The dashboard includes:
 - Date
 - Activity Level
 
+View the interactive dashboard here:
+
+**Power BI Dashboard:** https://drive.google.com/file/d/1LAbJClvMNK4VAR7T-A6lLVveLEf_zsnw/view?usp=drive_link
 ---
 
 # Key Insights
@@ -212,7 +214,7 @@ Aspiring Data Analyst passionate about SQL, Python, Power BI, and Data Visualiza
 
 GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
+
 
 ---
 
